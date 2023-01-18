@@ -1,0 +1,15 @@
+/Users/camerondixon/Projects/ShoppingListLab/ShoppingListLab/obj/Debug/net7.0/ShoppingListLab.csproj.AssemblyReference.cache
+/Users/camerondixon/Projects/ShoppingListLab/ShoppingListLab/obj/Debug/net7.0/ShoppingListLab.GeneratedMSBuildEditorConfig.editorconfig
+/Users/camerondixon/Projects/ShoppingListLab/ShoppingListLab/obj/Debug/net7.0/ShoppingListLab.AssemblyInfoInputs.cache
+/Users/camerondixon/Projects/ShoppingListLab/ShoppingListLab/obj/Debug/net7.0/ShoppingListLab.AssemblyInfo.cs
+/Users/camerondixon/Projects/ShoppingListLab/ShoppingListLab/obj/Debug/net7.0/ShoppingListLab.csproj.CoreCompileInputs.cache
+/Users/camerondixon/Projects/ShoppingListLab/ShoppingListLab/bin/Debug/net7.0/ShoppingListLab
+/Users/camerondixon/Projects/ShoppingListLab/ShoppingListLab/bin/Debug/net7.0/ShoppingListLab.deps.json
+/Users/camerondixon/Projects/ShoppingListLab/ShoppingListLab/bin/Debug/net7.0/ShoppingListLab.runtimeconfig.json
+/Users/camerondixon/Projects/ShoppingListLab/ShoppingListLab/bin/Debug/net7.0/ShoppingListLab.dll
+/Users/camerondixon/Projects/ShoppingListLab/ShoppingListLab/bin/Debug/net7.0/ShoppingListLab.pdb
+/Users/camerondixon/Projects/ShoppingListLab/ShoppingListLab/obj/Debug/net7.0/ShoppingListLab.dll
+/Users/camerondixon/Projects/ShoppingListLab/ShoppingListLab/obj/Debug/net7.0/refint/ShoppingListLab.dll
+/Users/camerondixon/Projects/ShoppingListLab/ShoppingListLab/obj/Debug/net7.0/ShoppingListLab.pdb
+/Users/camerondixon/Projects/ShoppingListLab/ShoppingListLab/obj/Debug/net7.0/ShoppingListLab.genruntimeconfig.cache
+/Users/camerondixon/Projects/ShoppingListLab/ShoppingListLab/obj/Debug/net7.0/ref/ShoppingListLab.dll
